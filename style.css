@@ -1,0 +1,43 @@
+h2{ 	text-align:center;
+		border:solid darkcyan;
+		margin-right: 580px;
+		margin-left: 580px;
+		font-family: 'Oxygen', sans-serif;
+}
+h4{		text-align: center
+}
+body{	background-color: lightblue;
+		text-align:center;
+		font-family: 'Quicksand', sans-serif;
+}
+h2 {
+	color:black;
+	font-size: 200%;
+
+}
+p{	text-align: center;
+	background-color:darkcyan;
+	font-size: 110%;
+	margin-left:381px;
+	margin-right:380px;
+	margin-bottom:0px;
+	padding-top:8px;
+
+}
+img{	border: 12px solid darkcyan;
+
+}
+nav{	border: solid darkcyan;
+		margin-right:576px;
+		margin-left:576px;
+		padding-top: 4px;
+		padding-bottom: 4px;
+		font-size: 110%;
+}
+a:visited{	color:purple;
+
+
+}
+a:hover{	color:orange;
+
+}
